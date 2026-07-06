@@ -66,10 +66,4 @@ This Power BI dashboard provides insights into workforce demographics, employee 
 
 ## 📷 Dashboard Preview
 
-![HR Dashboard](dashboard.png)
-
-
-
-
-
-
+![HR Dashboard](https://github.com/HajarHassan31/HR-Analysis-Dashboard/blob/main/HR%20analysis%20dashboard.JPG)
